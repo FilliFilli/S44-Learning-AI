@@ -3,3 +3,5 @@ Release and issue-tracking page for the Spring 1944 Learning AI enhancement modu
 
 Some videos avaiable at:
 https://www.youtube.com/channel/UCwJwJ4hD5Gwpjod844-1U_A
+
+Visit "Issues" section for curiosity
